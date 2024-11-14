@@ -1,16 +1,4 @@
 
-style.css
-Folha de estilo
-
-index.html
-HTML
-
-README.txt
-Texto
-Seus trabalhos
-Atribuído
-Comentários particulares
-Comentários da turma
 # Projeto RITMA - Rede de Inovação Tecnológica da Maré
 
 ## Descrição
